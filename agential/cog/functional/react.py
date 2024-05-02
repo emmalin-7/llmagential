@@ -7,6 +7,7 @@ from tiktoken import Encoding
 
 from agential.cog.prompts.react import (
     REACT_INSTRUCTION_HOTPOTQA,
+    SVAMP_REACT_EXAMPLES,
 )
 from agential.utils.parse import remove_newline
 
